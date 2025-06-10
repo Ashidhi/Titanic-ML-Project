@@ -44,7 +44,7 @@ I applied end-to-end Data Science steps:
 ## 🗂️ Files in This Repository
 
 * `Titanic-ML-Project.ipynb` – Main code in notebook format.
-* `titanic data analysis.py` – Python script version (optional).
+* `titanic data analysis.py` – Python script version.
 * `submission.csv` – Final predictions for Kaggle.
 *  `titanic(1)` - test and train datasets
 * `README.md` – Project overview.
